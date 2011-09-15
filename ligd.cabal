@@ -1,6 +1,7 @@
 name:                   ligd
 version:                0.2
 synopsis:               Lightweight Implementation of Generics and Dynamics
+homepage:               https://github.com/spl/ligd
 description:
 
   This is the basic representation types for the LIGD library. It is currently
