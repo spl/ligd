@@ -1,5 +1,5 @@
 name:                   ligd
-version:                0.1
+version:                0.2
 synopsis:               Lightweight Implementation of Generics and Dynamics
 description:
 
@@ -30,7 +30,8 @@ source-repository head
 Library
   hs-source-dirs:       src
 
-  exposed-modules:      Generics.LIGD.Base
+  exposed-modules:      Generics.LIGD
+                        Generics.LIGD.Base
 
   build-depends:        base < 100
 
